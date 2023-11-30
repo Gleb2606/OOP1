@@ -40,6 +40,7 @@ namespace OOP1
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello! This is Person programm");
         }
     }
 }
