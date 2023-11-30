@@ -12,10 +12,10 @@ namespace OOP1
         /// Перечисление gender
         /// </summary>
         enum Gender 
-        {
+        
             Male,
             Female
-        }
+        
 
         /// <summary>
         /// Класс Person
