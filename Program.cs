@@ -11,11 +11,11 @@ namespace OOP1
         /// <summary>
         /// Перечисление gender
         /// </summary>
-        enum Gender 
-        
+        enum Gender
+        {
             Male,
             Female
-        
+        }
 
         /// <summary>
         /// Класс Person
