@@ -8,6 +8,10 @@ namespace OOP1
 {
     internal class Program
     {
+        /// <summary>
+        /// Метод Main
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
         }
