@@ -9,6 +9,14 @@ namespace OOP1
     internal class Program
     {
         /// <summary>
+        /// Перечисление gender
+        /// </summary>
+        enum Gender 
+        {
+            Male,
+            Female
+        }
+        /// <summary>
         /// Метод Main
         /// </summary>
         /// <param name="args"></param>
