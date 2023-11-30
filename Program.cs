@@ -26,10 +26,10 @@ namespace OOP1
             public string LastName { get; }     
             public int Age { get; }
             public Gender Gender { get; }   
-            public Person (string firstName, string lastName, int age, Gender gender) 
+            public Person (string firstName, string secondName, int age, Gender gender) 
             {
                 FirstName = firstName;
-                LastName = lastName;
+                LastName = secondName;
                 Age = age;
                 Gender = gender;
             }
