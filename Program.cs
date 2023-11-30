@@ -16,6 +16,24 @@ namespace OOP1
             Male,
             Female
         }
+
+        /// <summary>
+        /// Класс Person
+        /// </summary>
+        class Person 
+        {
+            public string FirstName { get; }
+            public string LastName { get; }     
+            public int Age { get; }
+            public Gender Gender { get; }   
+            public Person (string firstName, string lastName, int age, Gender gender) 
+            {
+                FirstName = firstName;
+                LastName = lastName;
+                Age = age;
+                Gender = gender;
+            }
+        }
         /// <summary>
         /// Метод Main
         /// </summary>
